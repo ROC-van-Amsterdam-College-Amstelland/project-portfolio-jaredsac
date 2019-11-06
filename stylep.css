@@ -1,4 +1,4 @@
-.Mij{
+.projecten{
     background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(image/beautiful-blue-531756.jpg);
     background-size: cover;
     min-width: 100vw;
@@ -7,7 +7,7 @@
 
 table#custom {
     border-collapse: collapse;
-    width: 500px;
+    width: 1200;
 }
 
 #custom td, #custom th{
